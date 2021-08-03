@@ -1,5 +1,5 @@
 # Django project: Polling Application 
-from the tutorial on (https://www.djangoproject.com/start/)
+from the tutorial on https://www.djangoproject.com/start/
 
 This tutorial app covers:
 - Models
